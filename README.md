@@ -2,7 +2,12 @@
 Unlocks directories with facial recognition
 
 
-Personal projet to get familiar with cv2, and image managing in python
+Personal projet to get familiar with cv2, and image managing in python.
+
+
+The goal is to finish this project without watchinh any video related to the subject, by only using written documents. I would be to easy otherwise ;-)
+
+If the project is a success, why not try to mix it up mith a little hardware, and try to to a physical lock, working with facial recognition.
 
 
 Install & Run :
